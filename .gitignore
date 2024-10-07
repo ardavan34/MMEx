@@ -31,3 +31,6 @@
 *.exe
 *.out
 *.app
+
+# Rough notes files
+notes.txt
